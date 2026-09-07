@@ -10,13 +10,17 @@ actions:
     last_updated: "2026-09-07"
   - id: P2
     title: Put the assessment in the existing traffic path
-    status: identified
+    status: implemented
     repo: signalaf.com
+    commit: 3540d05
+    fixes: "Added Enterprise nav link to mos2es.org/baseline-assessment. Added enterprise CTAs to 5 pages: homepage, token-telemetry, ccusage-alternatives, ai-operator-scoring, operator-performance. CTAs distinguish free public ranking from private team baseline."
     last_updated: "2026-09-07"
   - id: P3
     title: Refresh the two existing nonbrand entry pages
-    status: identified
+    status: implemented
     repo: signalaf.com
+    commit: 3540d05
+    fixes: "token-telemetry: new title 'Token Telemetry: AI Usage Metrics Explained', new H1, added worked example section, added limitations section. ccusage-alternatives: new title 'ccusage Alternatives: Token Tracking & Analysis', new H1."
     last_updated: "2026-09-07"
   - id: P4
     title: Correct and source competitor facts
@@ -38,8 +42,10 @@ actions:
     last_updated: "2026-09-07"
   - id: P7
     title: Align category pages with buyer language
-    status: identified
-    repo: signalaf.com, mos2es.org
+    status: implemented
+    repo: signalaf.com
+    commit: 3540d05
+    fixes: "ai-operator-scoring: retitled to 'AI Operator Evaluation with Token Telemetry', H1 updated, terminalText changed to EVALUATION. operator-performance: retitled to 'AI Operator Performance: Metrics & Limits', H1 updated to 'How to Measure and Interpret AI Operator Performance', added limitations section on what metrics cannot establish."
     last_updated: "2026-09-07"
   - id: P8
     title: Clean up sitemap intent
