@@ -1,0 +1,78 @@
+# Implementation status tracker
+# Status: identified | in-progress | implemented | verified | deferred | superseded
+# Updated when work is done in product repos.
+
+actions:
+  - id: P1
+    title: Unify the paid assessment promise
+    status: identified
+    repo: mos2es.org
+    last_updated: "2026-09-07"
+  - id: P2
+    title: Put the assessment in the existing traffic path
+    status: identified
+    repo: signalaf.com
+    last_updated: "2026-09-07"
+  - id: P3
+    title: Refresh the two existing nonbrand entry pages
+    status: identified
+    repo: signalaf.com
+    last_updated: "2026-09-07"
+  - id: P4
+    title: Correct and source competitor facts
+    status: identified
+    repo: mos2es.org, signalaf.com
+    last_updated: "2026-09-07"
+  - id: P5
+    title: Give each search intent one primary page
+    status: identified
+    repo: cross-domain
+    last_updated: "2026-09-07"
+  - id: P6
+    title: Let Google crawl existing profile redirects
+    status: identified
+    repo: sigeconomy.com
+    last_updated: "2026-09-07"
+  - id: P7
+    title: Align category pages with buyer language
+    status: identified
+    repo: signalaf.com, mos2es.org
+    last_updated: "2026-09-07"
+  - id: P8
+    title: Clean up sitemap intent
+    status: identified
+    repo: signalaf.com
+    last_updated: "2026-09-07"
+  - id: P9
+    title: Publish a defensible sample assessment
+    status: identified
+    repo: mos2es.org
+    last_updated: "2026-09-07"
+  - id: P10
+    title: Establish a dated search-to-inquiry baseline
+    status: identified
+    repo: cross-domain
+    last_updated: "2026-09-07"
+
+consolidation:
+  - source: sigeconomy.com/vs/ccusage
+    destination: signalaf.com/vs/ccusage
+    status: identified
+  - source: mos2es.org/vs/ccusage
+    destination: signalaf.com/vs/ccusage
+    status: identified
+  - source: sigeconomy.com/vs/tokscale
+    destination: signalaf.com/vs/tokscale
+    status: identified
+  - source: sigeconomy.com/confirmation-hacking-ai-evaluation
+    destination: keep-current
+    status: identified
+  - source: mos2es.org/commercial-offer
+    destination: mos2es.org/baseline-assessment
+    status: identified
+  - source: signalaf.com/ai-operator-benchmark
+    destination: signalaf.com/ai-operator-scoring
+    status: identified
+  - source: sigeconomy.com/operator/grenadeoftacoss
+    destination: signalaf.com/user/grenadeoftacoss
+    status: identified

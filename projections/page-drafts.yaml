@@ -1,0 +1,57 @@
+# Page Drafts — proposed title/description/heading rewrites
+
+page_drafts:
+  -
+    Page / placement: "https://signalaf.com/token-telemetry"
+    Current title / state: "What Is Token Telemetry?"
+    Proposed title / CTA: "Token Telemetry: AI Usage Metrics Explained | SigRank"
+    Proposed description / copy: "Understand input, output and cache token counts, what they reveal about AI workflows, and where token telemetry falls short. Explore a team baseline."
+    Proposed heading: What token telemetry measures—and what it cannot prove
+    Implementation note: Add a small real or clearly labeled illustrative counter example and a direct team CTA.
+    Impact: High
+    Estimated results: 2–6 weeks
+  -
+    Page / placement: "https://signalaf.com/alternatives/ccusage-alternatives"
+    Current title / state: Best ccusage Alternatives (2026)
+    Proposed title / CTA: "ccusage Alternatives: Token Tracking & Analysis | SigRank"
+    Proposed description / copy: "Compare ccusage alternatives for token reporting, cost tracking and operator metrics. Review data requirements, privacy and the best fit for your workflow."
+    Proposed heading: ccusage alternatives for token tracking and analysis
+    Implementation note: Keep URL; verify every listed option and link to primary docs.
+    Impact: High
+    Estimated results: 2–6 weeks
+  -
+    Page / placement: "https://signalaf.com/ai-operator-scoring"
+    Current title / state: AI Operator Scoring — Ranking the Operator Behind AI
+    Proposed title / CTA: "AI Operator Evaluation with Token Telemetry | SigRank"
+    Proposed description / copy: "See how SigRank evaluates token-flow patterns from AI work. Explore metric definitions, benchmark limits and a private baseline assessment for your team."
+    Proposed heading: AI operator evaluation with token telemetry
+    Implementation note: Make the evaluation scope explicit; retain scoring as a subsection and link to methodology.
+    Impact: Medium
+    Estimated results: 3–8 weeks
+  -
+    Page / placement: "https://signalaf.com/operator-performance"
+    Current title / state: AI Operator Performance
+    Proposed title / CTA: "AI Operator Performance: Metrics & Limits | SigRank"
+    Proposed description / copy: "Explore AI operator metrics, compare token-flow patterns and understand why telemetry alone does not establish task quality or business value."
+    Proposed heading: How to measure and interpret AI operator performance
+    Implementation note: Use task/workflow context and avoid asserting model effects are always held constant.
+    Impact: Medium
+    Estimated results: 3–8 weeks
+  -
+    Page / placement: "https://mos2es.org/baseline-assessment"
+    Current title / state: The Baseline Assessment — MO§ES™
+    Proposed title / CTA: "Enterprise AI Baseline Assessment | MO§ES™"
+    Proposed description / copy: Establish a 30-day baseline of AI operating patterns for a selected team and workflow using content-free telemetry. Assessments start at $15K.
+    Proposed heading: A 30-day baseline for your enterprise AI workflows
+    Implementation note: Draft assumes the user brief pricing basis. Reconcile current $15K fixed language and scope before publishing.
+    Impact: High
+    Estimated results: 3–8 weeks
+  -
+    Page / placement: SignalAF in-body enterprise CTA
+    Current title / state: Only ecosystem footer link verified
+    Proposed title / CTA: Explore a 30-day team baseline
+    Proposed description / copy: "Working across a team? MO§ES™ offers a private baseline assessment of AI operating patterns using content-free telemetry. Engagements start at $15K."
+    Proposed heading: Explore the baseline assessment
+    Implementation note: Link directly to the unified offer and distinguish team service from free public ranking.
+    Impact: High
+    Estimated results: Immediate availability; assess inquiries over 2–4 weeks

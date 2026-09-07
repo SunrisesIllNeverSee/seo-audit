@@ -1,0 +1,59 @@
+# Consolidation — redirect/merge candidates
+
+consolidation:
+  -
+    Source URL: "https://sigeconomy.com/vs/ccusage"
+    Proposed destination / disposition: "https://signalaf.com/vs/ccusage"
+    Verified overlap: "Both retrieved, 200, self-canonical, same comparison intent"
+    Recommended action: "Merge unique material, then 301/308 and update internal links/sitemap"
+    Impact: High
+    Estimated results: 4–12 weeks
+    Condition / limitation: Check dated GSC page/query and link data first; destination must preserve useful source content.
+  -
+    Source URL: "https://mos2es.org/vs/ccusage"
+    Proposed destination / disposition: "https://signalaf.com/vs/ccusage"
+    Verified overlap: Both retrieved; comparison spans the same products
+    Recommended action: Move public tool-comparison intent to SignalAF after content merge
+    Impact: Medium
+    Estimated results: 4–12 weeks
+    Condition / limitation: Retain a distinct enterprise integration page only if it serves a separate buyer question.
+  -
+    Source URL: "https://sigeconomy.com/vs/tokscale"
+    Proposed destination / disposition: "https://signalaf.com/vs/tokscale"
+    Verified overlap: "Both retrieved, 200, self-canonical"
+    Recommended action: "Merge unique material, source the active project, then permanent redirect"
+    Impact: Medium
+    Estimated results: 4–12 weeks
+    Condition / limitation: Verify historic landing data and maintain a directly relevant destination.
+  -
+    Source URL: "https://sigeconomy.com/confirmation-hacking-ai-evaluation"
+    Proposed destination / disposition: Keep current URL pending evidence
+    Verified overlap: Both this URL and SignalAF counterpart retrieved; historic ranking belongs to sigeconomy
+    Recommended action: Correct claims now; decide canonical ownership after dated export
+    Impact: Low
+    Estimated results: Correction immediate; migration timing undecided
+    Condition / limitation: Do not move the historical winner based on one impression or an assumed domain total.
+  -
+    Source URL: "https://mos2es.org/commercial-offer"
+    Proposed destination / disposition: "https://mos2es.org/baseline-assessment"
+    Verified overlap: Conflicting offer scope/schedule and three self-canonical sales pages
+    Recommended action: Use current commercial terms to rewrite a single offer; redirect only after equivalent content is merged
+    Impact: High
+    Estimated results: Immediate clarity; 2–6 weeks for search
+    Condition / limitation: Retain genuinely different pilot configurator functionality under a distinct purpose if needed.
+  -
+    Source URL: "https://signalaf.com/ai-operator-benchmark"
+    Proposed destination / disposition: "https://signalaf.com/ai-operator-scoring"
+    Verified overlap: Existing 308 redirect works; alias still in sitemap
+    Recommended action: Keep redirect; remove alias from sitemap and point internal links to final URL
+    Impact: Low
+    Estimated results: 1–4 weeks
+    Condition / limitation: No new URL or exact-match page needed.
+  -
+    Source URL: "https://sigeconomy.com/operator/grenadeoftacoss"
+    Proposed destination / disposition: "https://signalaf.com/user/grenadeoftacoss"
+    Verified overlap: Existing 308 redirect works; old prefix blocked by robots
+    Recommended action: Keep redirect; allow crawling of the old public profile prefix
+    Impact: Medium
+    Estimated results: 1–6 weeks
+    Condition / limitation: Example verifies one profile route only; check mapping across other profiles before broad changes.

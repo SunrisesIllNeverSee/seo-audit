@@ -1,0 +1,21 @@
+# Page Metrics — GSC data for key pages
+
+page_metrics:
+  -
+    Page: SignalAF homepage
+    Impressions: 303
+    Clicks: 12
+    CTR: 0.0396039603960396
+    Data caveat: User-supplied page data; reported last 90 days
+  -
+    Page: ccusage alternatives page
+    Impressions: 147
+    Clicks: 4
+    CTR: 0.0272108843537415
+    Data caveat: Page total differs from the single-query row
+  -
+    Page: Token telemetry page
+    Impressions: 181
+    Clicks: 3
+    CTR: 0.01657458563535912
+    Data caveat: Page total differs from the single-query row

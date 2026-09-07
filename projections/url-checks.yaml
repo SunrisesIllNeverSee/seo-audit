@@ -1,0 +1,991 @@
+# URL Checks — 76 URL inspection results
+
+url_checks:
+  -
+    Requested URL: "https://signalaf.com/"
+    Final status: 200
+    Final URL: "https://signalaf.com/"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: SigRank SignalAF — The Evaluation Platform for AI Operators
+    H1: The evaluation platform for AI operators
+    JSON-LD blocks: 4
+    Approx body words: 1963
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/robots.txt"
+    Final status: 200
+    Final URL: "https://signalaf.com/robots.txt"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/sitemap.xml"
+    Final status: 200
+    Final URL: "https://signalaf.com/sitemap.xml"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.com/"
+    Final status: 200
+    Final URL: "https://mos2es.com/"
+    Redirect chain: ""
+    Canonical: "https://mos2es.com/"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ — Sovereign Signal Governance
+    H1: MO§ES ™
+    JSON-LD blocks: 4
+    Approx body words: 1020
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.com/robots.txt"
+    Final status: 200
+    Final URL: "https://mos2es.com/robots.txt"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.com/sitemap.xml"
+    Final status: 200
+    Final URL: "https://mos2es.com/sitemap.xml"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/"
+    Final status: 200
+    Final URL: "https://mos2es.org/"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ — Enterprise AI Operator Intelligence
+    H1: "You know who is using AI. Do you know how they operate it?"
+    JSON-LD blocks: 1
+    Approx body words: 1658
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/robots.txt"
+    Final status: 200
+    Final URL: "https://mos2es.org/robots.txt"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/sitemap.xml"
+    Final status: 200
+    Final URL: "https://mos2es.org/sitemap.xml"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/"
+    Redirect chain: ""
+    Canonical: "https://sigeconomy.com"
+    Meta robots: "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    X-Robots-Tag: ""
+    Title: "Performative Evals & Leaderboard for AI Users — Ranked by Yield | SigRank SignalAF"
+    H1: Public LLM Operator Evals
+    JSON-LD blocks: 5
+    Approx body words: 2994
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/robots.txt"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/robots.txt"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/sitemap.xml"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/sitemap.xml"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signomy.xyz/"
+    Final status: 200
+    Final URL: "https://signomy.xyz/"
+    Redirect chain: ""
+    Canonical: "https://signomy.xyz/"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: "SIGNOMY — Governed AI Agent Marketplace & Mission Board"
+    H1: "SIGNOMY — Governed AI Agent Marketplace & City-State"
+    JSON-LD blocks: 11
+    Approx body words: 731
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signomy.xyz/robots.txt"
+    Final status: 200
+    Final URL: "https://signomy.xyz/robots.txt"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signomy.xyz/sitemap.xml"
+    Final status: 200
+    Final URL: "https://signomy.xyz/sitemap.xml"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.xyz/"
+    Final status: 200
+    Final URL: "https://mos2es.xyz/"
+    Redirect chain: ""
+    Canonical: "https://mos2es.xyz"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: AQUA Application Hub
+    H1: APPLICATIONS. QUESTIONS. ANSWERS.
+    JSON-LD blocks: 1
+    Approx body words: 364
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.xyz/robots.txt"
+    Final status: 200
+    Final URL: "https://mos2es.xyz/robots.txt"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.xyz/sitemap.xml"
+    Final status: 200
+    Final URL: "https://mos2es.xyz/sitemap.xml"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/methodology"
+    Final status: 200
+    Final URL: "https://signalaf.com/methodology"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/methodology"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: The SigRank Index — Methodology · SigRank SignalAF
+    H1: The SigRank Index
+    JSON-LD blocks: 2
+    Approx body words: 1384
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/wiki/methodology-refinement"
+    Final status: 200
+    Final URL: "https://signalaf.com/wiki/methodology-refinement"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/wiki/methodology-refinement"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: How We Got Here — Refining the Index · SigRank SignalAF
+    H1: How We Got Here — Refining the Index
+    JSON-LD blocks: 2
+    Approx body words: 516
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/vs/ccusage"
+    Final status: 200
+    Final URL: "https://signalaf.com/vs/ccusage"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/vs/ccusage"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: SigRank vs ccusage — Sensor to Instrument Panel · SigRank SignalAF
+    H1: From Token Sensor to Instrument Panel
+    JSON-LD blocks: 2
+    Approx body words: 909
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/vs/tokscale"
+    Final status: 200
+    Final URL: "https://signalaf.com/vs/tokscale"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/vs/tokscale"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: SigRank vs Tokscale — Yield vs Volume Leaderboard · SigRank SignalAF
+    H1: Volume Is Noise. Yield Is Signal.
+    JSON-LD blocks: 2
+    Approx body words: 1015
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/ai-coding-metrics"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/ai-coding-metrics"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/ai-coding-metrics"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Coding Metrics Tools (2026) · SigRank SignalAF
+    H1: Best AI Coding Metrics Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1335
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/ccusage-alternatives"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/ccusage-alternatives"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/ccusage-alternatives"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best ccusage Alternatives (2026) · SigRank SignalAF
+    H1: Best ccusage Alternatives (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1235
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/ai-benchmarking-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/ai-benchmarking-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/ai-benchmarking-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Benchmarking Tools (2026) · SigRank SignalAF
+    H1: Best AI Benchmarking Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1106
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/token-tracking-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/token-tracking-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/token-tracking-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best Token Tracking Tools (2026) · SigRank SignalAF
+    H1: Best Token Tracking Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1124
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/ai-coding-efficiency-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/ai-coding-efficiency-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/ai-coding-efficiency-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Coding Efficiency Tools (2026) · SigRank SignalAF
+    H1: Best AI Coding Efficiency Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1565
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/claude-code-usage-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/claude-code-usage-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/claude-code-usage-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best Claude Code Usage Tracking Tools (2026) · SigRank SignalAF
+    H1: Best Claude Code Usage Tracking Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1511
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/cursor-ai-metrics-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/cursor-ai-metrics-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/cursor-ai-metrics-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best Cursor AI Metrics Tools (2026) · SigRank SignalAF
+    H1: Best Cursor AI Metrics Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1586
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/ai-operator-ranking-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/ai-operator-ranking-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/ai-operator-ranking-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Operator Ranking Tools (2026) · SigRank SignalAF
+    H1: Best AI Operator Ranking Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1451
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/token-cost-tracking-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/token-cost-tracking-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/token-cost-tracking-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best Token Cost Tracking Tools (2026) · SigRank SignalAF
+    H1: Best Token Cost Tracking Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1534
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/ai-coding-benchmark-platforms"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/ai-coding-benchmark-platforms"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/ai-coding-benchmark-platforms"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Coding Benchmark Platforms (2026) · SigRank SignalAF
+    H1: Best AI Coding Benchmark Platforms (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1436
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/ai-coding-roi-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/ai-coding-roi-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/ai-coding-roi-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Coding ROI Tools (2026) · SigRank SignalAF
+    H1: Best AI Coding ROI Tools (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1604
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/alternatives/mcp-ai-developer-tools"
+    Final status: 200
+    Final URL: "https://signalaf.com/alternatives/mcp-ai-developer-tools"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/alternatives/mcp-ai-developer-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best MCP Tools for AI Developers (2026) · SigRank SignalAF
+    H1: Best MCP Tools for AI Developers (2026)
+    JSON-LD blocks: 2
+    Approx body words: 1496
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/token-telemetry"
+    Final status: 200
+    Final URL: "https://signalaf.com/token-telemetry"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/token-telemetry"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: "What Is Token Telemetry? · SigRank SignalAF"
+    H1: Token Telemetry — Measuring AI Coding Activity
+    JSON-LD blocks: 2
+    Approx body words: 984
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/operator-performance"
+    Final status: 200
+    Final URL: "https://signalaf.com/operator-performance"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/operator-performance"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: AI Operator Performance · SigRank SignalAF
+    H1: "Operator Performance — Scoring the Operator, Not the Model"
+    JSON-LD blocks: 2
+    Approx body words: 839
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/ai-operator-scoring"
+    Final status: 200
+    Final URL: "https://signalaf.com/ai-operator-scoring"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/ai-operator-scoring"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: AI Operator Scoring — Ranking the Operator Behind AI · SigRank SignalAF
+    H1: AI Operator Scoring — The New Performance Layer
+    JSON-LD blocks: 2
+    Approx body words: 1567
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/ai-operator-benchmark"
+    Final status: 200
+    Final URL: "https://signalaf.com/ai-operator-scoring"
+    Redirect chain: "308 https://signalaf.com/ai-operator-benchmark"
+    Canonical: "https://signalaf.com/ai-operator-scoring"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: AI Operator Scoring — Ranking the Operator Behind AI · SigRank SignalAF
+    H1: AI Operator Scoring — The New Performance Layer
+    JSON-LD blocks: 2
+    Approx body words: 1567
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/confirmation-hacking-ai-evaluation"
+    Final status: 200
+    Final URL: "https://signalaf.com/confirmation-hacking-ai-evaluation"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/confirmation-hacking-ai-evaluation"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Confirmation Hacking in AI Evaluation · SigRank SignalAF
+    H1: Confirmation Hacking in AI Evaluation
+    JSON-LD blocks: 2
+    Approx body words: 704
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/pilot"
+    Final status: 200
+    Final URL: "https://mos2es.org/pilot"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/pilot"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Upsilon — 30-Day Baseline Assessment
+    H1: Baseline. Benchmark. Intervene. Re-evaluate.
+    JSON-LD blocks: 1
+    Approx body words: 1279
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/methodology"
+    Final status: 200
+    Final URL: "https://mos2es.org/methodology"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/methodology"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ — Methodology
+    H1: The eval framework.
+    JSON-LD blocks: 1
+    Approx body words: 1628
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/pilot-readout"
+    Final status: 200
+    Final URL: "https://mos2es.org/pilot-readout"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/pilot-readout"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Pilot Readout — MO§ES™ Demo Results
+    H1: Pilot Readout — Demo Results
+    JSON-LD blocks: 3
+    Approx body words: 874
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/concepts/confirmation-hacking"
+    Final status: 200
+    Final URL: "https://mos2es.org/concepts/confirmation-hacking"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/concepts/confirmation-hacking"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Confirmation Hacking in AI Evaluation — Definition and Detection — MO§ES™
+    H1: "Confirmation hacking: when AI evaluation confirms what you already believe."
+    JSON-LD blocks: 1
+    Approx body words: 575
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/guides/ai-operator-evaluation-vs-usage-analytics"
+    Final status: 200
+    Final URL: "https://mos2es.org/guides/ai-operator-evaluation-vs-usage-analytics"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/guides/ai-operator-evaluation-vs-usage-analytics"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: "AI Operator Evaluation vs Usage Analytics: What's the Difference?"
+    H1: Evaluation vs Usage Analytics
+    JSON-LD blocks: 1
+    Approx body words: 1308
+    Check type: "Negative control / guessed route, not a broken-link finding"
+  -
+    Requested URL: "https://mos2es.org/guides/ai-operator-evaluation-vs-skills-assessment"
+    Final status: 200
+    Final URL: "https://mos2es.org/guides/ai-operator-evaluation-vs-skills-assessment"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/guides/ai-operator-evaluation-vs-skills-assessment"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: "AI Operator Evaluation vs Skills Assessment: What's the Difference?"
+    H1: Evaluation vs Skills Assessment
+    JSON-LD blocks: 1
+    Approx body words: 1707
+    Check type: "Negative control / guessed route, not a broken-link finding"
+  -
+    Requested URL: "https://mos2es.org/vs/workera"
+    Final status: 200
+    Final URL: "https://mos2es.org/vs/workera"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/vs/workera"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ vs Workera — Measurement vs Assessment
+    H1: MO§ES™ vs Workera
+    JSON-LD blocks: 1
+    Approx body words: 1015
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/vs/worklytics"
+    Final status: 200
+    Final URL: "https://mos2es.org/vs/worklytics"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/vs/worklytics"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ vs Worklytics — Operator Performance vs Usage Analytics
+    H1: MO§ES™ vs Worklytics
+    JSON-LD blocks: 1
+    Approx body words: 998
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/vs/weave"
+    Final status: 200
+    Final URL: "https://mos2es.org/vs/weave"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/vs/weave"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ vs Weave — All-Role Operator Evaluation vs Engineering Productivity
+    H1: MO§ES™ vs Weave (WorkWeave)
+    JSON-LD blocks: 1
+    Approx body words: 1035
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/vs/paxel"
+    Final status: 200
+    Final URL: "https://mos2es.org/vs/paxel"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/vs/paxel"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ vs Paxel — All Operators vs Coding-Agent Builders
+    H1: MO§ES™ vs Paxel
+    JSON-LD blocks: 1
+    Approx body words: 1075
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/vs/bryq"
+    Final status: 200
+    Final URL: "https://mos2es.org/vs/bryq"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/vs/bryq"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ vs Bryq — Applied Performance vs Workforce Assessment
+    H1: MO§ES™ vs Bryq
+    JSON-LD blocks: 1
+    Approx body words: 1137
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/vs/ccusage"
+    Final status: 200
+    Final URL: "https://mos2es.org/vs/ccusage"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/vs/ccusage"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ vs ccusage — Operator Evaluation vs Usage Reporting
+    H1: MO§ES™ vs ccusage
+    JSON-LD blocks: 1
+    Approx body words: 1170
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/alternatives/"
+    Final status: 200
+    Final URL: "https://mos2es.org/alternatives/"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/alternatives/"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Alternatives Guides — Finding the Right AI Evaluation Tool
+    H1: Finding the Right AI Evaluation Tool
+    JSON-LD blocks: 1
+    Approx body words: 312
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/alternatives/ai-operator-evaluation-tools"
+    Final status: 200
+    Final URL: "https://mos2es.org/alternatives/ai-operator-evaluation-tools"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/alternatives/ai-operator-evaluation-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Operator Evaluation Tools in 2026
+    H1: AI Operator Evaluation Tools Compared
+    JSON-LD blocks: 1
+    Approx body words: 1176
+    Check type: "Negative control / guessed route, not a broken-link finding"
+  -
+    Requested URL: "https://mos2es.org/alternatives/ai-workforce-measurement-tools"
+    Final status: 200
+    Final URL: "https://mos2es.org/alternatives/ai-workforce-measurement-tools"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/alternatives/ai-workforce-measurement-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Workforce Measurement Tools
+    H1: AI Workforce Measurement Tools
+    JSON-LD blocks: 1
+    Approx body words: 1182
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/alternatives/ai-skills-assessment-alternatives"
+    Final status: 200
+    Final URL: "https://mos2es.org/alternatives/ai-skills-assessment-alternatives"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/alternatives/ai-skills-assessment-alternatives"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: "Best AI Skills Assessment Alternatives & AI Testing Tools in 2026"
+    H1: "Best AI Skills Assessment Alternatives & AI Testing Tools"
+    JSON-LD blocks: 1
+    Approx body words: 1231
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/alternatives/ai-benchmarking-tools"
+    Final status: 200
+    Final URL: "https://mos2es.org/alternatives/ai-benchmarking-tools"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/alternatives/ai-benchmarking-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Benchmarking Tools in 2026
+    H1: AI Benchmarking Tools Compared
+    JSON-LD blocks: 1
+    Approx body words: 1304
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/alternatives/mcp-ai-developer-tools"
+    Final status: 200
+    Final URL: "https://mos2es.org/alternatives/mcp-ai-developer-tools"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/alternatives/mcp-ai-developer-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best MCP AI Developer Tools in 2026
+    H1: MCP AI Developer Tools
+    JSON-LD blocks: 1
+    Approx body words: 1338
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/alternatives/ai-coding-roi-tools"
+    Final status: 200
+    Final URL: "https://mos2es.org/alternatives/ai-coding-roi-tools"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/alternatives/ai-coding-roi-tools"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Best AI Coding ROI Tools in 2026
+    H1: AI Coding ROI Tools Compared
+    JSON-LD blocks: 1
+    Approx body words: 1299
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/baseline-assessment"
+    Final status: 200
+    Final URL: "https://mos2es.org/baseline-assessment"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/baseline-assessment"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: The Baseline Assessment — MO§ES™
+    H1: One assessment. One baseline. One answer.
+    JSON-LD blocks: 1
+    Approx body words: 930
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/commercial-offer"
+    Final status: 200
+    Final URL: "https://mos2es.org/commercial-offer"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/commercial-offer"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Commercial Offer — MO§ES™
+    H1: The Baseline Assessment.
+    JSON-LD blocks: 1
+    Approx body words: 489
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/blog/performative-benchmarks-vs-self-report"
+    Final status: 200
+    Final URL: "https://mos2es.org/blog/performative-benchmarks-vs-self-report"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/blog/performative-benchmarks-vs-self-report"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: "Performative Benchmarks vs Self-Reported Proficiency: What Actually Predicts Outcomes — MO§ES™"
+    H1: "Performative Benchmarks vs Self-Reported Proficiency: What Actually Predicts Outcomes"
+    JSON-LD blocks: 1
+    Approx body words: 2064
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/blog/token-telemetry-without-content"
+    Final status: 200
+    Final URL: "https://mos2es.org/blog/token-telemetry-without-content"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/blog/token-telemetry-without-content"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: "Token Telemetry Without Content: How to Measure AI Operator Performance Without Reading Prompts"
+    H1: Token Telemetry Without Content
+    JSON-LD blocks: 1
+    Approx body words: 2082
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/ai-operator-metrics"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/ai-operator-metrics"
+    Redirect chain: ""
+    Canonical: "https://sigeconomy.com/ai-operator-metrics"
+    Meta robots: "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    X-Robots-Tag: ""
+    Title: AI Operator Metrics — Measuring the Operator Driving AI
+    H1: AI Operator Metrics
+    JSON-LD blocks: 5
+    Approx body words: 186
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/ai-operator-standard"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/ai-operator-standard"
+    Redirect chain: ""
+    Canonical: "https://sigeconomy.com/ai-operator-standard"
+    Meta robots: "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    X-Robots-Tag: ""
+    Title: "AI Operator Standard — TTEOP Open Telemetry Protocol | SigArena"
+    H1: AI Operator Standard
+    JSON-LD blocks: 5
+    Approx body words: 339
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/vs/ccusage"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/vs/ccusage"
+    Redirect chain: ""
+    Canonical: "https://sigeconomy.com/vs/ccusage"
+    Meta robots: "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    X-Robots-Tag: ""
+    Title: SigRank vs ccusage — Yield vs Raw Token Count
+    H1: SigRank vs ccusage
+    JSON-LD blocks: 5
+    Approx body words: 444
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/vs/tokscale"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/vs/tokscale"
+    Redirect chain: ""
+    Canonical: "https://sigeconomy.com/vs/tokscale"
+    Meta robots: "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    X-Robots-Tag: ""
+    Title: SigRank vs Tokscale — Yield vs Volume Leaderboard
+    H1: SigRank vs Tokscale
+    JSON-LD blocks: 5
+    Approx body words: 480
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/confirmation-hacking-ai-evaluation"
+    Final status: 200
+    Final URL: "https://sigeconomy.com/confirmation-hacking-ai-evaluation"
+    Redirect chain: ""
+    Canonical: "https://sigeconomy.com/confirmation-hacking-ai-evaluation"
+    Meta robots: "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+    X-Robots-Tag: ""
+    Title: Confirmation Hacking in AI Evaluation
+    H1: Confirmation Hacking in AI Evaluation
+    JSON-LD blocks: 5
+    Approx body words: 750
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/ai-operator-evaluation"
+    Final status: 404
+    Final URL: "https://signalaf.com/ai-operator-evaluation"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: noindex
+    X-Robots-Tag: ""
+    Title: SigRank SignalAF
+    H1: Page not found
+    JSON-LD blocks: 1
+    Approx body words: 78
+    Check type: "Negative control / guessed route, not a broken-link finding"
+  -
+    Requested URL: "https://signalaf.com/pricing"
+    Final status: 200
+    Final URL: "https://signalaf.com/pricing"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/pricing"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Pricing — Free During Build Stage · SigRank SignalAF
+    H1: Free during the build stage
+    JSON-LD blocks: 1
+    Approx body words: 353
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/login"
+    Final status: 200
+    Final URL: "https://signalaf.com/login"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/login"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Sign in · SigRank SignalAF
+    H1: Sign in
+    JSON-LD blocks: 1
+    Approx body words: 30
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/contact"
+    Final status: 200
+    Final URL: "https://signalaf.com/contact"
+    Redirect chain: ""
+    Canonical: "https://signalaf.com/contact"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: Contact · SigRank SignalAF
+    H1: Get in touch
+    JSON-LD blocks: 1
+    Approx body words: 35
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signomy.xyz/sitemap-v2.xml"
+    Final status: 200
+    Final URL: "https://signomy.xyz/sitemap-v2.xml"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://mos2es.org/product"
+    Final status: 200
+    Final URL: "https://mos2es.org/product"
+    Redirect chain: ""
+    Canonical: "https://mos2es.org/product"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: MO§ES™ — Product
+    H1: What MO§ES™ benchmarks.
+    JSON-LD blocks: 2
+    Approx body words: 2469
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://sigeconomy.com/operator/grenadeoftacoss"
+    Final status: 200
+    Final URL: "https://signalaf.com/user/grenadeoftacoss"
+    Redirect chain: "308 https://sigeconomy.com/operator/grenadeoftacoss"
+    Canonical: "https://signalaf.com/user/grenadeoftacoss"
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: grenadeoftacoss · Υ 0 · SigRank SignalAF
+    H1: "grenadeoftacoss *"
+    JSON-LD blocks: 2
+    Approx body words: 286
+    Check type: Targeted public URL check
+  -
+    Requested URL: "https://signalaf.com/seo-audit-missing-page-20260906"
+    Final status: 404
+    Final URL: "https://signalaf.com/seo-audit-missing-page-20260906"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: noindex
+    X-Robots-Tag: ""
+    Title: SigRank SignalAF
+    H1: Page not found
+    JSON-LD blocks: 1
+    Approx body words: 78
+    Check type: "Negative control / guessed route, not a broken-link finding"
+  -
+    Requested URL: "https://mos2es.org/seo-audit-missing-page-20260906"
+    Final status: 404
+    Final URL: "https://mos2es.org/seo-audit-missing-page-20260906"
+    Redirect chain: ""
+    Canonical: ""
+    Meta robots: ""
+    X-Robots-Tag: ""
+    Title: ""
+    H1: ""
+    JSON-LD blocks: 0
+    Approx body words: ""
+    Check type: "Negative control / guessed route, not a broken-link finding"

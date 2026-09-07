@@ -1,0 +1,183 @@
+# Competitors — verified competitive landscape
+
+competitors:
+  -
+    Competitor: Workera
+    Competitive relationship: Direct workforce assessment
+    Verified destination: "https://www.workera.ai/"
+    Current offering / evidence: "AI skill assessments, role-based readiness baselines and ambient coaching/measurement."
+    Positioning implication: Content-free telemetry can distinguish the data collection method; continuous or all-role measurement alone is not unique.
+    Pricing status: No price verified
+    Recommended SEO action: Revise blanket assessment-only positioning; link ambient capabilities.
+    Impact: High
+    Estimated results: 2–6 weeks
+    Verification status: Verified official homepage
+    Primary sources: "https://www.workera.ai/"
+  -
+    Competitor: Worklytics
+    Competitive relationship: Direct measurement budget
+    Verified destination: "https://www.worklytics.co/"
+    Current offering / evidence: "Workplace analytics; current content covers adoption, proficiency, leverage and outcome measurement."
+    Positioning implication: "Compare exact data requirements, metric definitions and validation instead of saying it only counts adoption."
+    Pricing status: "Business starts $2,500/month, includes up to 200 users; Enterprise custom"
+    Recommended SEO action: Correct .com to verified .co; refresh use-case distinctions.
+    Impact: High
+    Estimated results: 2–6 weeks
+    Verification status: "Verified official homepage, pricing and product articles"
+    Primary sources: "https://www.worklytics.co/pricing | https://www.worklytics.co/blog/how-to-measure-ai-skills-across-your-workforce"
+  -
+    Competitor: Weave / WorkWeave
+    Competitive relationship: Engineering measurement; historical classification
+    Verified destination: "https://workweave.com/"
+    Current offering / evidence: Current offering could not be verified. Both supplied host forms timed out in direct checks.
+    Positioning implication: Engineering scope is from the user brief only.
+    Pricing status: Unknown; funding and scale unverified
+    Recommended SEO action: Hold new claims until the current official destination is verified. Do not infer shutdown from fetch failures.
+    Impact: Low
+    Estimated results: Accuracy benefit on correction; ranking timing unknown
+    Verification status: Unverified current site
+    Primary sources: "https://workweave.com/ | https://www.workweave.com/"
+  -
+    Competitor: Paxel (YC)
+    Competitive relationship: AI coding operator profiles
+    Verified destination: "https://paxel.ycombinator.com/"
+    Current offering / evidence: Profiles coding-agent behavior. Official data policy describes derived data and content excerpts transmitted during analysis.
+    Positioning implication: Content-free collection is a concrete distinction; compare privacy mechanisms and supported workflows.
+    Pricing status: Free tool described in official launch; enterprise pricing not verified
+    Recommended SEO action: "Replace paxel.ai, which currently describes pharma CRM; cite the actual data policy."
+    Impact: High
+    Estimated results: 2–6 weeks
+    Verification status: Verified official YC pages; unrelated .ai homepage verified
+    Primary sources: "https://paxel.ycombinator.com/ | https://paxel.ycombinator.com/data-handling | https://paxel.ai/"
+  -
+    Competitor: VALS AI
+    Competitive relationship: Adjacent model / evaluation search
+    Verified destination: "https://www.vals.ai/home"
+    Current offering / evidence: Benchmarks models on real-world tasks and provides evaluation products.
+    Positioning implication: Clarify operator telemetry versus model/task evaluation; avoid implying one replaces the other.
+    Pricing status: No price verified
+    Recommended SEO action: Maintain one sourced comparison on SignalAF; merge same-intent copies after URL review.
+    Impact: Medium
+    Estimated results: 4–12 weeks
+    Verification status: Verified official homepage
+    Primary sources: "https://www.vals.ai/home"
+  -
+    Competitor: Bryq
+    Competitive relationship: Adjacent hiring and AI fluency
+    Verified destination: "https://www.bryq.com/"
+    Current offering / evidence: Talent assessment includes practical AI fluency alongside other skills and candidate-fit measures.
+    Positioning implication: Workforce telemetry in ongoing work differs from candidate assessments; AI-specific assessment is now explicitly offered.
+    Pricing status: Historic $69/month not verified
+    Recommended SEO action: Correct the brief assumption that Bryq is not AI-specific. Date and source exact test claims before republishing.
+    Impact: Medium
+    Estimated results: 2–6 weeks
+    Verification status: Verified official homepage
+    Primary sources: "https://www.bryq.com/"
+  -
+    Competitor: Canditech
+    Competitive relationship: Adjacent hiring / AI assessment
+    Verified destination: "https://www.canditech.io/"
+    Current offering / evidence: "Job simulations, AI proficiency tests and embedded AI tools in assessments."
+    Positioning implication: "Distinguish ongoing enterprise measurement from hiring simulations, while acknowledging practical AI work in tests."
+    Pricing status: Historic $150–200/month not verified; no numeric plan price extracted
+    Recommended SEO action: Use official .io destination; replace generic skills-only claims with current feature detail.
+    Impact: Medium
+    Estimated results: 2–6 weeks
+    Verification status: Verified official homepage and pricing page
+    Primary sources: "https://www.canditech.io/ | https://www.canditech.io/pricing/"
+  -
+    Competitor: genAssess
+    Competitive relationship: AI literacy / workforce readiness
+    Verified destination: "https://www.genassess.com/"
+    Current offering / evidence: "Official search extract describes task mapping, AI literacy and applied-skills assessment."
+    Positioning implication: Compare proposed in-work telemetry with task and readiness assessment.
+    Pricing status: Unknown
+    Recommended SEO action: Use the verified www destination; qualify details until direct page content can be retrieved.
+    Impact: Low
+    Estimated results: 2–6 weeks if revised; demand unknown
+    Verification status: "Partial: official indexed excerpt; direct non-www TLS failure"
+    Primary sources: "https://www.genassess.com/"
+  -
+    Competitor: AI Acumen
+    Competitive relationship: Individual self-assessment
+    Verified destination: "https://aiacumen.org/"
+    Current offering / evidence: "Free short AI skills assessment across four dimensions with a score, roadmap and certificate."
+    Positioning implication: Lower enterprise buying intent; differentiate private team baselines and longitudinal measurement.
+    Pricing status: "Free, per official site"
+    Recommended SEO action: Maintain factual coverage; deprioritize expansion for enterprise pipeline.
+    Impact: Low
+    Estimated results: 4–12 weeks; enterprise value uncertain
+    Verification status: Verified official homepage
+    Primary sources: "https://aiacumen.org/"
+  -
+    Competitor: Prompt Ranks
+    Competitive relationship: Individual prompt assessment
+    Verified destination: "https://promptranks.org/"
+    Current offering / evidence: Official indexed result presents prompt-engineering assessment/certification and a leaderboard.
+    Positioning implication: Treat as individual learning/community intent; current free/open-source claims not verified.
+    Pricing status: Unknown
+    Recommended SEO action: Avoid repeating open-source or free claims without primary verification.
+    Impact: Low
+    Estimated results: Accuracy benefit when corrected; search timing unknown
+    Verification status: "Partial: official indexed result; direct fetch timeout"
+    Primary sources: "https://promptranks.org/"
+  -
+    Competitor: ccusage
+    Competitive relationship: Strong existing token-tool search overlap
+    Verified destination: "https://ccusage.com/"
+    Current offering / evidence: Open-source token-usage analysis; repository now resolves to ccusage/ccusage.
+    Positioning implication: Explain how token reporting and SigRank interpretation can work together; support fit-based selection.
+    Pricing status: Open source; no software subscription price verified
+    Recommended SEO action: Refresh the existing alternatives winner and preserve its URL.
+    Impact: High
+    Estimated results: 2–6 weeks
+    Verification status: Verified official docs and repository redirect
+    Primary sources: "https://ccusage.com/ | https://github.com/ccusage/ccusage"
+  -
+    Competitor: Tokscale
+    Competitive relationship: Token tracking / leaderboard
+    Verified destination: "https://github.com/junhoyeo/tokscale"
+    Current offering / evidence: "Multi-agent token/cost tracking with a public leaderboard, per official repository."
+    Positioning implication: Differentiate metric interpretation from consumption tracking without overstating validated outcomes.
+    Pricing status: MIT open-source repository
+    Recommended SEO action: "Replace tokscale.com references where present: the domain redirected to a domain-sale listing during this audit. Use the official repository."
+    Impact: Medium
+    Estimated results: 2–6 weeks
+    Verification status: Verified repository; supplied domain redirect checked
+    Primary sources: "https://github.com/junhoyeo/tokscale"
+  -
+    Competitor: Arena / Chatbot Arena
+    Competitive relationship: Adjacent model leaderboard search
+    Verified destination: "https://arena.ai/"
+    Current offering / evidence: AI model comparison and ranking.
+    Positioning implication: Explain model preference rankings versus an operator token-flow metric.
+    Pricing status: Not verified; not material to this comparison
+    Recommended SEO action: Update naming/destination and keep the model-versus-operator distinction narrow.
+    Impact: Low
+    Estimated results: 4–12 weeks
+    Verification status: Verified official homepage; no domain-authority estimate
+    Primary sources: "https://arena.ai/"
+  -
+    Competitor: Langfuse
+    Competitive relationship: Adjacent AI evaluation / observability
+    Verified destination: "https://langfuse.com/"
+    Current offering / evidence: "Open-source AI engineering platform spanning tracing, monitoring, prompts, datasets and evaluation."
+    Positioning implication: Position operator telemetry as a separate layer or complement to application evaluation.
+    Pricing status: Open source plus hosted offering; amounts not verified
+    Recommended SEO action: Avoid claiming observability tools only report usage; source the evaluation features.
+    Impact: Medium
+    Estimated results: 4–12 weeks
+    Verification status: Verified official homepage
+    Primary sources: "https://langfuse.com/"
+  -
+    Competitor: Cursor
+    Competitive relationship: Tool-native AI coding metrics
+    Verified destination: "https://cursor.com/docs/account/teams/analytics"
+    Current offering / evidence: "Team analytics includes usage, AI output, repository and conversation views."
+    Positioning implication: Differentiate cross-tool token telemetry and declared scoring from native editor analytics.
+    Pricing status: Analytics documented for Teams/Enterprise; amounts not verified
+    Recommended SEO action: Update existing Cursor alternatives page with current metric coverage and clear user-fit criteria.
+    Impact: Medium
+    Estimated results: 3–8 weeks
+    Verification status: Verified official documentation
+    Primary sources: "https://cursor.com/docs/account/teams/analytics"

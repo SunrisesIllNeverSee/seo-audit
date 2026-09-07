@@ -1,0 +1,51 @@
+# Domain Inventory — domains in scope with roles
+
+domains:
+  -
+    Domain: signalaf.com
+    Recommended role: Primary public benchmark and token-tool acquisition
+    Sitemap URLs: 214
+    Comparison URLs: 46
+    Alternatives URLs: 12
+    Sitemap source: "https://signalaf.com/sitemap.xml"
+    Interpretation: "Sitemap inventory, not indexed-page count"
+  -
+    Domain: mos2es.com
+    Recommended role: Distinct governance architecture / research authority
+    Sitemap URLs: 53
+    Comparison URLs: 4
+    Alternatives URLs: 3
+    Sitemap source: "https://mos2es.com/sitemap.xml"
+    Interpretation: "Sitemap inventory, not indexed-page count"
+  -
+    Domain: mos2es.org
+    Recommended role: Enterprise offer and private assessment
+    Sitemap URLs: 55
+    Comparison URLs: 16
+    Alternatives URLs: 6
+    Sitemap source: "https://mos2es.org/sitemap.xml"
+    Interpretation: "Sitemap inventory, not indexed-page count"
+  -
+    Domain: sigeconomy.com
+    Recommended role: Overlapping public leaderboard; consolidate redundant comparisons selectively
+    Sitemap URLs: 79
+    Comparison URLs: 35
+    Alternatives URLs: 0
+    Sitemap source: "https://sigeconomy.com/sitemap.xml"
+    Interpretation: "Sitemap inventory, not indexed-page count"
+  -
+    Domain: signomy.xyz
+    Recommended role: Distinct governed agent marketplace
+    Sitemap URLs: 119
+    Comparison URLs: 20
+    Alternatives URLs: 9
+    Sitemap source: "https://signomy.xyz/sitemap.xml"
+    Interpretation: "Sitemap inventory, not indexed-page count; signomy robots advertises sitemap-v2.xml instead"
+  -
+    Domain: mos2es.xyz
+    Recommended role: Distinct application-management product
+    Sitemap URLs: 22
+    Comparison URLs: 3
+    Alternatives URLs: 0
+    Sitemap source: "https://mos2es.xyz/sitemap.xml"
+    Interpretation: "Sitemap inventory, not indexed-page count"

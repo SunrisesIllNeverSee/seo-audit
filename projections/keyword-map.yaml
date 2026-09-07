@@ -1,0 +1,83 @@
+# Keyword Map — query clusters to preferred URLs
+
+keyword_map:
+  -
+    Query cluster: token telemetry
+    Search intent: Informational with product relevance
+    Preferred URL: "https://signalaf.com/token-telemetry"
+    Impact: High
+    Estimated results: 2–6 weeks
+    Evidence / demand limits: "Brief: query position 8.5, 124 impressions, 2 clicks"
+    Recommended edit: "Add worked example, provider counter mapping, limitations and team-assessment CTA."
+  -
+    Query cluster: ccusage alternatives / ccusage alternative
+    Search intent: Tool comparison
+    Preferred URL: "https://signalaf.com/alternatives/ccusage-alternatives"
+    Impact: High
+    Estimated results: 2–6 weeks
+    Evidence / demand limits: "Brief: plural query position 8.3, 18 impressions, 1 click; singular 14.2, 6 impressions"
+    Recommended edit: Preserve URL; use sourced criteria and an accurate recommendation by need.
+  -
+    Query cluster: AI operator evaluation
+    Search intent: Category / evaluation
+    Preferred URL: "https://signalaf.com/ai-operator-scoring"
+    Impact: Medium
+    Estimated results: 3–8 weeks
+    Evidence / demand limits: Existing category page verified; current volume/rank unknown
+    Recommended edit: "Retitle and clarify existing hub; define operator, mechanism, limits and assessment path. Do not create a duplicate solely for an exact-match slug."
+  -
+    Query cluster: AI operator performance
+    Search intent: Category / methodology
+    Preferred URL: "https://signalaf.com/operator-performance"
+    Impact: Medium
+    Estimated results: 3–8 weeks
+    Evidence / demand limits: Existing page verified; current volume/rank unknown
+    Recommended edit: Focus on interpreting metrics and separating telemetry from validated work outcomes.
+  -
+    Query cluster: enterprise AI baseline
+    Search intent: Commercial assessment
+    Preferred URL: "https://mos2es.org/baseline-assessment"
+    Impact: High
+    Estimated results: 3–8 weeks
+    Evidence / demand limits: Existing offer verified; current volume/rank unknown
+    Recommended edit: "Unify offer and title; document scope, data requirements, price basis, schedule and sample deliverable."
+  -
+    Query cluster: AI operations measurement
+    Search intent: Category / commercial research
+    Preferred URL: "https://mos2es.org/product"
+    Impact: Medium
+    Estimated results: 4–12 weeks
+    Evidence / demand limits: Existing product page verified; broad/ambiguous search language
+    Recommended edit: Explain measurement objects and required integrations; link to the single offer.
+  -
+    Query cluster: performative benchmarks
+    Search intent: Emerging category / definitional
+    Preferred URL: "https://mos2es.org/blog/performative-benchmarks-vs-self-report"
+    Impact: Low
+    Estimated results: 6–12+ weeks
+    Evidence / demand limits: URL discovered in sitemap; body not fetched; demand unmeasured
+    Recommended edit: Define within existing content and link to methodology; do not make this the first traffic bet.
+  -
+    Query cluster: cache hit rate / cache performance metrics
+    Search intent: Broad technical information
+    Preferred URL: "https://signalaf.com/metrics/cache-hit-rate"
+    Impact: Low
+    Estimated results: 6–12+ weeks
+    Evidence / demand limits: "Brief positions 66.0 and 74.7; homepage link discovered, body not audited"
+    Recommended edit: Prefer LLM/prompt-cache qualifiers where appropriate. Defer broad cache terms in the first sprint.
+  -
+    Query cluster: Tokscale comparison
+    Search intent: Tool comparison
+    Preferred URL: "https://signalaf.com/vs/tokscale"
+    Impact: Medium
+    Estimated results: 3–8 weeks
+    Evidence / demand limits: "Brief: 6 impressions, position 24.8"
+    Recommended edit: Correct identity/source links and explain metric differences without generic superiority claims.
+  -
+    Query cluster: confirmation hacking
+    Search intent: Research / evaluation integrity
+    Preferred URL: "https://sigeconomy.com/confirmation-hacking-ai-evaluation"
+    Impact: Low
+    Estimated results: 4–12 weeks
+    Evidence / demand limits: "Brief: one exact-question impression at position 1; conflict with domain click total"
+    Recommended edit: Preserve the historical landing URL pending dated query/page exports. Correct claims that telemetry eliminates all evaluation bias.

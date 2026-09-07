@@ -1,0 +1,12 @@
+# Read Me — audit metadata
+
+Audit date: "September 6, 2026"
+Scope: "76 first-party URL checks across six domains: 18 home/robots/sitemap checks plus 58 focused checks. Includes two negative controls and one guessed category route. Targeted sample, not an exhaustive crawl."
+How to use: "Start with Actions priorities 1–4. Competitors contains 15 rows. Page Drafts contains proposed copy. Consolidation contains candidate mappings, not executed redirects."
+Evidence labels: Verified means the public page or HTTP response was inspected. Partial means an official indexed extract was available but direct retrieval was limited. Unknown is not zero or absence.
+Impact: "Qualitative priority for relevant visibility, buyer trust or measurement; not a predicted traffic uplift."
+Timing: "Estimates begin after implementation and depend on recrawling, indexing, demand and current traffic. No rankings or conversions guaranteed."
+Historical baseline: "User brief mixes monthly and 90-day periods and repeats SignalAF totals as all-domain totals. Do not sum it into a verified baseline. Impressions/clicks are search visibility, not site sessions."
+Limits: "No authenticated GSC/GA4 exports, backlink dataset, live Google ranks, keyword volume, rendered-mobile audit or Core Web Vitals measured. No website changes deployed."
+Competitor pricing: "Only verified amounts are treated as current. Historical funding, prices and customer counts are not copied as facts."
+Delivery: HTML audit plus this workbook. Crawl evidence retained locally; workbook carries the compact URL inventory.
