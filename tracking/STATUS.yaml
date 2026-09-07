@@ -22,6 +22,7 @@ actions:
     title: Correct and source competitor facts
     status: identified
     repo: mos2es.org, signalaf.com
+    blocker: "13 /vs/ competitor pages live on mos2es.org but not in mos2es-site repo — repo-vs-live drift must be resolved first"
     last_updated: "2026-09-07"
   - id: P5
     title: Give each search intent one primary page
@@ -30,8 +31,9 @@ actions:
     last_updated: "2026-09-07"
   - id: P6
     title: Let Google crawl existing profile redirects
-    status: identified
+    status: implemented
     repo: sigeconomy.com
+    commit: 228ba04
     last_updated: "2026-09-07"
   - id: P7
     title: Align category pages with buyer language
@@ -40,8 +42,9 @@ actions:
     last_updated: "2026-09-07"
   - id: P8
     title: Clean up sitemap intent
-    status: identified
+    status: implemented
     repo: signalaf.com
+    commit: 4f8fc5c
     last_updated: "2026-09-07"
   - id: P9
     title: Publish a defensible sample assessment
