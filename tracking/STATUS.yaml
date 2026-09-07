@@ -20,9 +20,10 @@ actions:
     last_updated: "2026-09-07"
   - id: P4
     title: Correct and source competitor facts
-    status: identified
-    repo: mos2es.org, signalaf.com
-    blocker: "13 /vs/ competitor pages live on mos2es.org but not in mos2es-site repo — repo-vs-live drift must be resolved first"
+    status: implemented
+    repo: mos2es.org
+    commit: 0642ae6
+    fixes: "Paxel sameAs paxel.ai→paxel.ycombinator.com, AI Acumen→aiacumen.org, Prompt Ranks→promptranks.org, Weave→workweave.com. Synced 10 /vs/ pages from live to repo."
     last_updated: "2026-09-07"
   - id: P5
     title: Give each search intent one primary page
