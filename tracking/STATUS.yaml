@@ -33,8 +33,10 @@ actions:
     last_updated: "2026-09-07"
   - id: P5
     title: Give each search intent one primary page
-    status: identified
+    status: implemented
     repo: cross-domain
+    commit: "sigarena 459c784, b2bpilot dcf0a65"
+    fixes: "Added 301 redirects: sigeconomy.com/vs/ccusage→signalaf.com/vs/ccusage, sigeconomy.com/vs/tokscale→signalaf.com/vs/tokscale, mos2es.org/vs/ccusage→signalaf.com/vs/ccusage, mos2es.org/commercial-offer→mos2es.org/baseline-assessment. Already redirecting: signalaf.com/ai-operator-benchmark→ai-operator-scoring (308), sigeconomy.com/operator/*→signalaf.com/user/* (308)."
     last_updated: "2026-09-07"
   - id: P6
     title: Let Google crawl existing profile redirects
@@ -71,22 +73,28 @@ actions:
 consolidation:
   - source: sigeconomy.com/vs/ccusage
     destination: signalaf.com/vs/ccusage
-    status: identified
+    status: implemented
+    commit: "sigarena 459c784"
   - source: mos2es.org/vs/ccusage
     destination: signalaf.com/vs/ccusage
-    status: identified
+    status: implemented
+    commit: "b2bpilot dcf0a65"
   - source: sigeconomy.com/vs/tokscale
     destination: signalaf.com/vs/tokscale
-    status: identified
+    status: implemented
+    commit: "sigarena 459c784"
   - source: sigeconomy.com/confirmation-hacking-ai-evaluation
     destination: keep-current
-    status: identified
+    status: implemented
   - source: mos2es.org/commercial-offer
     destination: mos2es.org/baseline-assessment
-    status: identified
+    status: implemented
+    commit: "b2bpilot dcf0a65"
   - source: signalaf.com/ai-operator-benchmark
     destination: signalaf.com/ai-operator-scoring
-    status: identified
+    status: implemented
+    note: "Already 308 redirect (pre-existing)"
   - source: sigeconomy.com/operator/grenadeoftacoss
     destination: signalaf.com/user/grenadeoftacoss
-    status: identified
+    status: implemented
+    note: "Already 308 redirect (pre-existing)"
