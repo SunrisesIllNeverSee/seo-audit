@@ -66,9 +66,14 @@ actions:
     last_updated: "2026-09-07"
   - id: P10
     title: Establish a dated search-to-inquiry baseline
-    status: identified
+    status: in-progress
     repo: cross-domain
-    last_updated: "2026-09-07"
+    last_updated: "2026-09-08"
+    framework: "scripts/capture_snapshot.py + scripts/compare_snapshots.py"
+    automation: "com.ello.seo.weekly-snapshot (Mondays 06:00)"
+    first_snapshot: "2026-09-08"
+    manual_data_needed: "GSC impressions/clicks/position/CTR + AI Overview presence for 14 target queries"
+    notes: "Automated parts (HTTP status, sitemap counts, titles/H1s) captured weekly. GSC data must be added manually to each snapshot."
 
 consolidation:
   - source: sigeconomy.com/vs/ccusage
