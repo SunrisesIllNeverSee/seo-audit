@@ -5,8 +5,10 @@
 actions:
   - id: P1
     title: Unify the paid assessment promise
-    status: identified
+    status: implemented
     repo: mos2es.org
+    commit: 883195f
+    fixes: "Removed CAUSATION as evidence label from baseline-assessment.html. Evidence grades now ASSOCIATION/INCONCLUSIVE/NO SIGNAL, aligned with methodology. Updated title to 'Enterprise AI Baseline Assessment'. Aligned commercial-offer.html schedule with 4-phase model. Added cross-links from pilot.html and commercial-offer.html to baseline-assessment as principal offer."
     last_updated: "2026-09-07"
   - id: P2
     title: Put the assessment in the existing traffic path
@@ -55,8 +57,10 @@ actions:
     last_updated: "2026-09-07"
   - id: P9
     title: Publish a defensible sample assessment
-    status: identified
+    status: implemented
     repo: mos2es.org
+    commit: 883195f
+    fixes: "Retitled pilot-readout.html to 'Sample Assessment Readout'. Fixed contradictory meta description. Updated H1 and lead copy to frame as sample deliverable. Data clearly labeled synthetic. Format, metrics, and governance labels are real. CTA now links to baseline-assessment."
     last_updated: "2026-09-07"
   - id: P10
     title: Establish a dated search-to-inquiry baseline
