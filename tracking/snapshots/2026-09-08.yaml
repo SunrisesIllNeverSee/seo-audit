@@ -123,98 +123,350 @@ target_queries:
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
+    gsc_source: "none"
   ai operator scoring:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
-  token telemetry:
-    gsc_impressions: 24
-    gsc_clicks: 0
-    gsc_position: 8.1
-    gsc_ctr: 0.0000
-    ai_overview_present: false
-    gsc_source: "signalaf.com — exact match: 'token telemetry'"
-  ccusage alternative:
-    gsc_impressions: 2
-    gsc_clicks: 0
-    gsc_position: 5.0
-    gsc_ctr: 0.0000
-    ai_overview_present: false
-    gsc_source: "signalaf.com — exact match: 'ccusage alternatives'"
-  cc usage alternative:
-    gsc_impressions: 1
-    gsc_clicks: 0
-    gsc_position: 81.0
-    gsc_ctr: 0.0000
-    ai_overview_present: false
-    gsc_source: "signalaf.com — partial match: 'cc usage'"
+    gsc_source: "none"
   ai operator leaderboard:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
+    gsc_source: "none"
+  ai user leaderboard:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
   ai operator performance:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
-  what is a tier 1 ai operator:
+    gsc_source: "none"
+  ai operator evaluation:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
-  cache hit rate:
-    gsc_impressions: 5
+    gsc_source: "none"
+  ai power user:
+    gsc_impressions: 0
     gsc_clicks: 0
-    gsc_position: 67.6
+    gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "signalaf.com — aggregated: 'cache hit' (2i, pos 42.5), 'cache hit rate' (1i, pos 171), 'cache hit rate meaning' (1i, pos 10), 'cache hit rates' (1i, pos 72)"
+    gsc_source: "none"
+  best ai user:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  best ai coder:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  how do i check my ai coding efficiency:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  ai coding metrics tools:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  ai benchmarking tools for operators:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  model evals vs operator evals:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  public llm operator evals:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  performative evals for ai users:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
   enterprise ai baseline assessment:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
-  mo§es:
+    gsc_source: "none"
+  sigrank:
+    gsc_impressions: 51
+    gsc_clicks: 1
+    gsc_position: 13.3
+    gsc_ctr: 0.0196
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'sigrank' (8i, pos 10.5); sigeconomy.com:'sigrank' (27i, pos 15.9); mos2es.com:'sigrank' (16i, pos 10.2)"
+  signalaf:
+    gsc_impressions: 35
+    gsc_clicks: 0
+    gsc_position: 14.0
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'signalaf' (3i, pos 1.3); signalaf.com:'signalaf.com' (3i, pos 1.0); signalaf.com:'site:signalaf.com' (23i, pos 11.4); sigeconomy.com:'signalaf' (6i, pos 36.8)"
+  signalaf.com:
+    gsc_impressions: 26
+    gsc_clicks: 0
+    gsc_position: 10.2
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'signalaf.com' (3i, pos 1.0); signalaf.com:'site:signalaf.com' (23i, pos 11.4)"
+  what is sigrank:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target (special char § may not index)"
+    gsc_source: "none"
+  what is signalaf:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  npx sigrank:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  sigrank mcp server:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  how do i install sigrank:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  sigeconomy.com:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
   moses governance:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
-  commitment conservation law:
+    gsc_source: "none"
+  mo§es:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
+    gsc_source: "none"
+  token telemetry:
+    gsc_impressions: 24
+    gsc_clicks: 0
+    gsc_position: 8.1
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'token telemetry' (24i, pos 8.1)"
+  yield in ai usage:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  yield formula for ai coding:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  leverage in ai token usage:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  velocity in ai token usage:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  snr in ai coding:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  10xdev:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  cache hit rate:
+    gsc_impressions: 3
+    gsc_clicks: 0
+    gsc_position: 84.3
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'cache hit rate' (1i, pos 171.0); signalaf.com:'cache hit rate meaning' (1i, pos 10.0); signalaf.com:'cache hit rates' (1i, pos 72.0)"
+  token cascade efficiency:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
   signal vs noise ai:
     gsc_impressions: 0
     gsc_clicks: 0
     gsc_position: null
     gsc_ctr: 0.0000
     ai_overview_present: false
-    gsc_source: "none — no GSC query matched this target"
+    gsc_source: "none"
+  ccusage alternative:
+    gsc_impressions: 2
+    gsc_clicks: 0
+    gsc_position: 5.0
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'ccusage alternatives' (2i, pos 5.0)"
+  cc usage alternative:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  ccusage alternatives:
+    gsc_impressions: 2
+    gsc_clicks: 0
+    gsc_position: 5.0
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'ccusage alternatives' (2i, pos 5.0)"
+  alternatives to ccusage:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  what is ccusage:
+    gsc_impressions: 1
+    gsc_clicks: 0
+    gsc_position: 55.0
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'what is ccusage' (1i, pos 55.0)"
+  tokscale:
+    gsc_impressions: 8
+    gsc_clicks: 0
+    gsc_position: 23.2
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "signalaf.com:'tokscale' (2i, pos 18.5); sigeconomy.com:'tokscale' (6i, pos 24.8)"
+  sigrank vs ccusage:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  sigrank vs lmsys arena:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  sigrank vs cursor:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  sigrank vs langfuse:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  commitment conservation law:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  what is token cascade:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
+  telescoping identity token cascade:
+    gsc_impressions: 0
+    gsc_clicks: 0
+    gsc_position: null
+    gsc_ctr: 0.0000
+    ai_overview_present: false
+    gsc_source: "none"
 
 manual_data_needed: false
-notes: 'GSC data pulled via gsc-seo-mos2es-org MCP (2026-09-08). Date range: 2026-08-11 to 2026-09-07 (28 days). AI Overview presence: none across all 4 properties. 10 of 14 target queries have zero GSC impressions — whitespace opportunities.'
+notes: 'GSC data pulled via gsc-seo-mos2es-org MCP (2026-09-08). Date range: 2026-08-11 to 2026-09-07 (28 days). 50 target queries (expanded from 14). AI Overview presence: 0 across all 4 properties. 9 of 50 queries have GSC impressions — 41 whitespace opportunities. Total: 152 impressions, 1 click across matched queries.'
