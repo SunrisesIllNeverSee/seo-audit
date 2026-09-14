@@ -1,0 +1,421 @@
+date: '2026-09-14'
+captured_at: '2026-09-14T10:00:05.404972+00:00'
+domains:
+  signalaf.com:
+    homepage_status: 200
+    sitemap_status: 200
+    sitemap_urls: 208
+    robots_status: 200
+    llms_txt_status: 200
+    homepage_title: SigRank SignalAF — The Evaluation Platform for AI Operators
+    homepage_h1: The evaluation platform for AI operators
+  mos2es.com:
+    homepage_status: 200
+    sitemap_status: 200
+    sitemap_urls: 53
+    robots_status: 200
+    llms_txt_status: 200
+    homepage_title: MO§ES™ — Sovereign Signal Governance
+    homepage_h1: MO§ES™
+  mos2es.org:
+    homepage_status: 200
+    sitemap_status: 200
+    sitemap_urls: 55
+    robots_status: 200
+    llms_txt_status: 200
+    homepage_title: MO§ES™ — Enterprise AI Operator Intelligence
+    homepage_h1: You know who is using AI. Do you know how they operate it?
+  sigeconomy.com:
+    homepage_status: 200
+    sitemap_status: 200
+    sitemap_urls: 79
+    robots_status: 200
+    llms_txt_status: 200
+    homepage_title: Performative Evals &amp; Leaderboard for AI Users — Ranked by
+      Yield | SigRank SignalAF
+    homepage_h1: Public LLMOperator Evals
+  signomy.xyz:
+    homepage_status: 200
+    sitemap_status: 200
+    sitemap_urls: 118
+    robots_status: 200
+    llms_txt_status: 200
+    homepage_title: SIGNOMY — Governed AI Agent Marketplace & Mission Board
+    homepage_h1: SIGNOMY — Governed AI Agent Marketplace & City-State
+  mos2es.xyz:
+    homepage_status: 200
+    sitemap_status: 200
+    sitemap_urls: 22
+    robots_status: 200
+    llms_txt_status: 200
+    homepage_title: AQUA Application Hub
+    homepage_h1: APPLICATIONS.QUESTIONS.ANSWERS.
+key_pages:
+  signalaf.com:
+    /:
+      status: 200
+      title: SigRank SignalAF — The Evaluation Platform for AI Operators
+      h1: The evaluation platform for AI operators
+    /token-telemetry:
+      status: 200
+      title: 'Token Telemetry: AI Usage Metrics Explained · SigRank SignalAF'
+      h1: What Token Telemetry Measures — and What It Cannot Prove
+    /alternatives/ccusage-alternatives:
+      status: 200
+      title: 'cc usage Alternatives: Token Tracking &amp; Analysis Tools · SigRank
+        SignalAF'
+      h1: cc usage Alternatives for Token Tracking &amp; Analysis
+    /ai-operator-scoring:
+      status: 200
+      title: AI Operator Evaluation with Token Telemetry · SigRank SignalAF
+      h1: AI Operator Evaluation with Token Telemetry
+    /operator-performance:
+      status: 200
+      title: 'AI Operator Performance: Metrics &amp; Limits · SigRank SignalAF'
+      h1: How to Measure and Interpret AI Operator Performance
+    /hall:
+      status: 200
+      title: AI Operator Hall of Fame · SigRank SignalAF
+      h1: AI Operator Hall of Fame
+    /metrics/cache-hit-rate:
+      status: 200
+      title: Cache Hit Rate — Prompt Cache Reuse for AI Coding · SigRank SignalAF
+      h1: Cache Hit Rate — Context Reuse Efficiency
+    /tools/operator-class-checker:
+      status: 200
+      title: What Is a Tier 1 AI Operator? Class Tier Checker · SigRank SignalAF
+      h1: What Is a Tier 1 AI Operator?
+  mos2es.org:
+    /:
+      status: 200
+      title: MO§ES™ — Enterprise AI Operator Intelligence
+      h1: You know who is using AI. Do you know how they operate it?
+    /baseline-assessment:
+      status: 200
+      title: Enterprise AI Baseline Assessment | MO§ES™
+      h1: A 30-day baseline for your enterprise AI workflows.
+    /pilot:
+      status: 200
+      title: Upsilon — 30-Day Baseline Assessment
+      h1: Baseline. Benchmark. Intervene. Re-evaluate.
+    /pilot-readout:
+      status: 200
+      title: Sample Assessment Readout — MO§ES™ Demo Results
+      h1: Sample Assessment Readout — Demo Results
+  sigeconomy.com:
+    /:
+      status: 200
+      title: Performative Evals &amp; Leaderboard for AI Users — Ranked by Yield |
+        SigRank SignalAF
+      h1: Public LLMOperator Evals
+    /vs/ccusage:
+      status: 200
+      title: SigRank vs ccusage — Sensor to Instrument Panel · SigRank SignalAF
+      h1: From Token Sensor to Instrument Panel
+    /vs/tokscale:
+      status: 200
+      title: SigRank vs Tokscale — Yield vs Volume Leaderboard · SigRank SignalAF
+      h1: Volume Is Noise. Yield Is Signal.
+target_queries:
+  ai operator:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai operator scoring:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai operator leaderboard:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai user leaderboard:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai operator performance:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai operator evaluation:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai power user:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  best ai user:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  best ai coder:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  how do i check my ai coding efficiency:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai coding metrics tools:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ai benchmarking tools for operators:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  model evals vs operator evals:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  public llm operator evals:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  performative evals for ai users:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  enterprise ai baseline assessment:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  sigrank:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  signalaf:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  signalaf.com:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  what is sigrank:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  what is signalaf:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  npx sigrank:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  sigrank mcp server:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  how do i install sigrank:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  sigeconomy.com:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  moses governance:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  mo§es:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  token telemetry:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  yield in ai usage:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  yield formula for ai coding:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  leverage in ai token usage:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  velocity in ai token usage:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  snr in ai coding:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  10xdev:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  cache hit rate:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  token cascade efficiency:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  signal vs noise ai:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ccusage alternative:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  cc usage alternative:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  ccusage alternatives:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  alternatives to ccusage:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  what is ccusage:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  tokscale:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  sigrank vs ccusage:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  sigrank vs lmsys arena:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  sigrank vs cursor:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  sigrank vs langfuse:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  commitment conservation law:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  what is token cascade:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+  telescoping identity token cascade:
+    gsc_impressions: null
+    gsc_clicks: null
+    gsc_position: null
+    gsc_ctr: null
+    ai_overview_present: null
+manual_data_needed: true
+notes: ''
