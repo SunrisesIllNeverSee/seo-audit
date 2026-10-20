@@ -5,7 +5,7 @@ description: Surface, System, Edge and Latent-Intent passes that recover what a 
 tags: [doctrine, architecture, review, redesign, owner-decisions]
 timestamp: 2026-10-07
 ---
-> **Canonical source:** technical-index `docs/FOUR-PASS-ARCHITECTURE-RECOVERY-PROTOCOL.md` — edit there; copies are distribution snapshots.
+> **Canonical source:** technical-index `docs/FOUR-PASS-ARCHITECTURE-RECOVERY-PROTOCOL.md` @a51533e — edit there; copies are distribution snapshots.
 
 # Four-Pass Architecture Recovery Protocol
 

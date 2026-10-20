@@ -5,7 +5,7 @@ description: Describe what a product does before naming what it is (action, cons
 tags: [doctrine, writing, product, publishing]
 timestamp: 2026-10-07
 ---
-> **Canonical source:** technical-index `docs/VERB-FIRST-PRODUCT-WRITING.md` — edit there; copies are distribution snapshots.
+> **Canonical source:** technical-index `docs/VERB-FIRST-PRODUCT-WRITING.md` @a51533e — edit there; copies are distribution snapshots.
 
 # Verb-First Product Writing
 
